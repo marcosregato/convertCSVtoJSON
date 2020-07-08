@@ -1,0 +1,8 @@
+status,data,hora,metodo,mensagem
+OK,02-07-2020,13:27,setTxtPesquisar,null
+OK,02-07-2020,13:27,clickBtnPesquisar,null
+OK,02-07-2020,13:27,isValidarElement,Texto encontrado => BLOUSE
+OK,02-07-2020,13:27,voltarPagIndex,null
+OK,02-07-2020,13:27,clickBtnPesquisar,null
+OK,02-07-2020,13:28,isValidarElement,Texto encontrado => Please enter a search keyword
+OK,02-07-2020,13:28,cenarioTestePesquisarComTexto,Final do Teste
