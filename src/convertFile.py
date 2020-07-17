@@ -1,14 +1,12 @@
 import csv, requests
 #import io
 
-url_api_testFuncional = "http://localhost:8080/api/testefuncional"
-url_api_testUnitario = "http://localhost:8080/api/testeUnitario"
-
 def testFuncional_CSV_JSON():
-    arquivoCSV = "../TC_001_PaginaPrincipal_02_07_2020_13_27.csv"
-
 
     try:
+        url_api_testFuncional = "http://localhost:8080/api/testefuncional"
+        arquivoCSV = "../TC_001_PaginaPrincipal_02_07_2020_13_27.csv"
+
         with open (arquivoCSV) as csvFile:
             id =1
             csvReader = csv.DictReader(csvFile)
@@ -24,7 +22,9 @@ def testFuncional_CSV_JSON():
         print(e)
 
 def testeUnitario_TXT_JSON():
+
     try:
+        url_api_testUnitario = "http://localhost:8080/api/testeUnitario"
         arquivoTXT = "../log_maven_teste.txt"
         nun_linha = 0
         test_run = []
