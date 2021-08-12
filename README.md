@@ -44,10 +44,9 @@
 > __Api QA__
 > [Link do projeto](https://github.com/marcosregato/apiQA).</br>
 
+> __Test Api QA__
+> [GitHub Pages](https://github.com/marcosregato/testApiQA).</br>
+
 > __Gerador massa de dados QA__
 > [Link do projeto](https://github.com/marcosregato/geradorMassaQA).</br>
-
-> __Teste de API QA__
-> [Link do projeto](https://github.com/marcosregato/testeApiQA).</br>
-
 
