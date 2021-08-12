@@ -1,0 +1,15 @@
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running com.javaworld.geekcap.math.MathToolsTest
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.04 s - in com.javaworld.geekcap.math.MathToolsTest
+[INFO]
+[INFO] Results:
+[INFO]
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 24:23
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  3.832 s
+[INFO] Finished at: 2020-02-16T08:21:15-05:00
+[INFO] ------------------------------------------------------------------------
